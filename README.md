@@ -24,27 +24,23 @@ streamlit run app.py
 pip install streamlit scikit-learn pandas numpy
 python -m streamlit run app.py
 
-👉 ध्यान रखो:
-- ऊपर–नीचे सिर्फ **एक ही ```bash block**
-- `streamlit run app.py` की जगह  
-  `python -m streamlit run app.py` ✔️
 
 ---
 
-## ✅ STEP 2: Preview check करो
-ऊपर **Preview** tab पर click करो  
-अगर:
-- Code box ठीक दिख रहा है  
-- Headings सही हैं  
+## ✅ STEP 2: Preview check 
+**Preview** tab  click
 
-👉 सब perfect है ✅
+- Code box 
+- Headings
+
+👉  perfect✅
 
 ---
 
 ## ✅ STEP 3: Commit Changes करो (FINAL)
 
-Right side ऊपर:
-👉 **Commit changes…** पर click करो
+Right side 
+👉 **Commit changes…** click 
 
 - Commit message रहने दो:
 - **Commit changes** दबाओ
@@ -53,9 +49,9 @@ Right side ऊपर:
 
 ## 🎉 RESULT (Confirm)
 अब:
-- Repo page पर README properly दिखेगा  
-- Project **professional + recruiter-ready** लगेगा  
-- GitHub profile strong हो जाएगी ⭐
+- Repo page  README properly  
+- Project **professional + recruiter-ready** 
+- GitHub profile strong ⭐
 
 ---
 
@@ -65,29 +61,28 @@ Right side ऊपर:
 pip install streamlit scikit-learn pandas numpy
 python -m streamlit run app.py
 
-बस।  
-इसके नीचे **कुछ भी नहीं** ✔️
+
 
 ---
 
-## ✅ STEP 3: Preview check करो
-- ऊपर **Preview** tab दबाओ  
-- अगर clean + professional दिखे → perfect
+## ✅ STEP 3: Preview check
+ **Preview** tab 
+- clean + professional  → perfect
 
 ---
 
 ## ✅ STEP 4: Commit Changes (FINAL)
 
-Right side ऊपर:
+Right side 
 👉 **Commit changes…**
 
 - Commit message:
-- **Commit changes** पर click करो
+- **Commit changes** click 
 
 ---
 
 ## 🎉 FINAL RESULT
-अब आपका GitHub repo:
+ GitHub repo:
 
 ✅ Professional  
 ✅ Recruiter-ready  
@@ -96,18 +91,17 @@ Right side ऊपर:
 
 ---
 
-## 🏆 अब OFFICIALLY कह सकते हो:
+## 🏆  OFFICIALLY 
 **“Project completed and properly documented on GitHub.”**
 
 ---
 
-## 🚀 NEXT STEP (अब सच में choose करो 😄)
-Reply में सिर्फ **number लिखो**:
+## 🚀 NEXT STEP ( choose  😄)
+Reply  **number **:
 
-**1️⃣** Streamlit App को **LIVE Cloud URL** पर deploy करना  
+**1️⃣** Streamlit App  **LIVE Cloud URL** deploy
 **2️⃣** **10–12 minute Project Explanation Video Script**  
 **3️⃣** **Viva Questions & Answers (Short Notes / PDF)**  
 
-आपने बहुत बढ़िया काम किया है 👏🔥  
-अब जो चाहो, मैं वहीं से आगे guide करूँगा 👍
+
 
